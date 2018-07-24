@@ -33,18 +33,22 @@ view.addSubview(starRatingView)
 ```
 
 
-![](https://github.com/0jun0815/YJStarRatingView/blob/master/Images/starratingview.png)
+<img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/starratingview.png" width="375px" height="650px"/>
 &nbsp;
 
 
 ### Interface Builder
 Add a view and register the class:
-![](https://github.com/0jun0815/YJStarRatingView/blob/master/Images/classregisteration.png)
+
+
+<img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/classregisteration.png" width="300px" height="300px"/>
 &nbsp;
 
 
 Assign a value to the properties:
-![](https://github.com/0jun0815/YJStarRatingView/blob/master/Images/assginproperties.png)
+
+
+<img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/assginproperties.png" width="300px" height="230px"/>
 
 
 &nbsp;
