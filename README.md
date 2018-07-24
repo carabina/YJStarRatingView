@@ -2,15 +2,7 @@
 > Custom rating view입니다.
 
 
-![](https://media.giphy.com/media/MWdOAxxPDEhNKyzXVK/giphy.gif){: width="50%" height="50%"}{: .center}
-
-
-
-[![](https://img.youtube.com/vi/qVEnZo3LCAY/0.jpg)](https://youtu.be/qVEnZo3LCAY)
-
-
-[![](https://img.youtube.com/vi/VlvV9z4IMt8/0.jpg)](https://youtu.be/VlvV9z4IMt8)
-
+![](https://github.com/0jun0815/YJStudy/blob/master/Images/yjstarratingview.gif)
 
 
 &nbsp;
