@@ -1,6 +1,8 @@
 # YJStarRatingView
 > Custom rating view입니다.
 
+![](https://imgur.com/tRFzkTU)
+
 [![](https://img.youtube.com/vi/qVEnZo3LCAY/0.jpg)](https://youtu.be/qVEnZo3LCAY)
 
 
