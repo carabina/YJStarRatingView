@@ -1,11 +1,10 @@
 # YJStarRatingView
 > Custom rating view입니다.
 
+[![](https://img.youtu.be/qVEnZo3LCAY.jpg)](https://youtu.be/qVEnZo3LCAY)
 
-<iframe width="640" height="360" src="https://youtu.be/qVEnZo3LCAY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
-
-<iframe width="640" height="360" src="https://youtu.be/VlvV9z4IMt8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![](https://img.youtu.be/VlvV9z4IMt8)](https://youtu.be/VlvV9z4IMt8)
 
 
 
