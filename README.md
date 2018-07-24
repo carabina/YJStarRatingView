@@ -7,6 +7,9 @@
 
 
 &nbsp;
+&nbsp;
+
+
 <img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/yjstarratingview.gif" width="375px" height="650px"/>
 
 
