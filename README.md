@@ -2,7 +2,8 @@
 > Custom rating view입니다.
 
 
-![](https://imgur.com/tRFzkTU){: width="50%" height="50%"}{: .center}
+![](https://media.giphy.com/media/MWdOAxxPDEhNKyzXVK/giphy.gif){: width="50%" height="50%"}{: .center}
+
 
 
 [![](https://img.youtube.com/vi/qVEnZo3LCAY/0.jpg)](https://youtu.be/qVEnZo3LCAY)
