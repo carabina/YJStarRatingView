@@ -33,8 +33,8 @@ view.addSubview(starRatingView)
 ```
 
 
-<img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/starratingview.png" width="375px" height="650px"/>
 &nbsp;
+<img src="https://github.com/0jun0815/YJStarRatingView/blob/master/Images/starratingview.png" width="375px" height="650px"/>
 
 
 ### Interface Builder
