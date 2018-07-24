@@ -1,7 +1,9 @@
 # YJStarRatingView
 > Custom rating view입니다.
 
-<img src="https://github.com/0jun0815/YJStudy/blob/master/Images/yjstarratingview.gif" width="200" height="200" />
+
+![](https://github.com/0jun0815/YJStudy/blob/master/Images/yjstarratingview.gif | 375x603)
+
 
 
 
